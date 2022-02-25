@@ -80,6 +80,13 @@ td:nth-child(even) {
 }
 
 @media (max-width: 1028px) {
+  
+  .sticky-header {
+    padding: 12px 0px 12px 20px;
+    text-align: left;
+    letter-spacing: 4px;
+}
+
 
   .row-number {
     font-size: 10px;
